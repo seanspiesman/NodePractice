@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-// const bookJSON = JSON.stringify(book);
+const bookJSON = JSON.stringify(book);
 
 // fs.writeFileSync("1-json.json", bookJSON);
 
